@@ -1,0 +1,91 @@
+th, td {
+    padding: 15px;
+    text-align: left;
+  } 
+  table {
+    border-collapse: collapse;
+  }
+  table, th, td {
+    border: 1px solid 
+  }
+  body {
+      background-image: url(https://peoriaparks.org/wp-content/uploads/2017/12/BookCourt_iStock-690358116-e1515177346323.jpg);
+      font-family: 'Roboto', sans-serif;
+      /* color: rgba(64, 34, 24,0.7); */
+  }
+  main {
+      display: inline-block;
+      margin-top: 100px;
+      
+  }
+  form{
+      background-color: rgba(64, 34, 24,0.7);
+      color: #eee ;
+      float: left;
+      
+      margin-bottom: 30px;
+      margin-left: 5%;
+      width: 500px;
+      font-weight: bold;
+      display: flex;
+      flex-direction: column;
+      height: 100px;
+
+  }
+  #input1 {
+      display: flex;
+      flex-direction: row;
+      padding-top: 10px;
+      padding-bottom: 10px;
+  }
+  #input1 input {
+    width: 300px;
+}
+#input2 select {
+    width: 300px;
+    
+}
+  #input2 {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 10px;
+}
+  #submit {
+      background: #C68B59;
+      width: 300px;
+      color:#eee;
+      font-weight: bold;
+      margin-left: 70px;  }
+  #tableDiv {
+      background-color: rgba(64, 34, 24,0.7);
+      color: #eee;
+      clear: both;
+      float: right;
+  }
+
+  header {
+      background-color: rgba(64, 34, 24,0.7);
+      color: #eee;
+      text-align: center;
+      height: 70px;
+  }
+  h1 {
+      font-size: xx-large;
+      font-weight: bolder;
+      
+      padding-top: 10px;
+
+  }
+  footer {
+      margin-top: 600px;
+      clear: both;
+      background-color: rgba(64, 34, 24,0.7);
+      color: #eee;
+      text-align: center;
+      height: 70px;
+  }
+  h3 {
+      font-size: large;
+      font-weight: bold;
+      padding-top: 30px;
+  }
